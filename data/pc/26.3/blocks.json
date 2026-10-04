@@ -1163,7 +1163,8 @@
     "maxStateId": 127,
     "states": [],
     "drops": [
-      92
+      92,
+      1096
     ],
     "boundingBox": "block"
   },
@@ -2808,7 +2809,11 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      77,
+      1007,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -2852,7 +2857,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      78,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -2896,7 +2904,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      79,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -2940,7 +2951,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      1060,
+      80
+    ],
     "boundingBox": "block"
   },
   {
@@ -2984,7 +2998,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      81,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3029,7 +3046,8 @@
       }
     ],
     "drops": [
-      82
+      82,
+      1060
     ],
     "boundingBox": "block"
   },
@@ -3074,7 +3092,11 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      83,
+      1007,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3118,7 +3140,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      84,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3162,7 +3187,9 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3206,7 +3233,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      86,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3251,7 +3281,8 @@
       }
     ],
     "drops": [
-      86
+      86,
+      1060
     ],
     "boundingBox": "block"
   },
@@ -3296,7 +3327,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      86,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3340,7 +3374,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      242,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -3384,7 +3421,10 @@
         "num_values": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      243,
+      1060
+    ],
     "boundingBox": "block"
   },
   {
@@ -4727,7 +4767,9 @@
     "minStateId": 2364,
     "maxStateId": 2364,
     "states": [],
-    "drops": [],
+    "drops": [
+      1065
+    ],
     "boundingBox": "empty"
   },
   {
@@ -4747,7 +4789,7 @@
     "maxStateId": 2365,
     "states": [],
     "drops": [
-      0
+      1060
     ],
     "boundingBox": "empty"
   },
@@ -13840,7 +13882,7 @@
       }
     ],
     "drops": [
-      0
+      317
     ],
     "boundingBox": "block"
   },
@@ -13892,7 +13934,7 @@
       }
     ],
     "drops": [
-      0
+      318
     ],
     "boundingBox": "block"
   },
@@ -15050,7 +15092,7 @@
       }
     ],
     "drops": [
-      0
+      1258
     ],
     "boundingBox": "empty"
   },
@@ -15087,7 +15129,7 @@
       }
     ],
     "drops": [
-      0
+      1259
     ],
     "boundingBox": "empty"
   },
@@ -15243,9 +15285,7 @@
         "num_values": 2
       }
     ],
-    "drops": [
-      0
-    ],
+    "drops": [],
     "boundingBox": "empty"
   },
   {
@@ -37270,7 +37310,9 @@
         ]
       }
     ],
-    "drops": [],
+    "drops": [
+      325
+    ],
     "boundingBox": "empty"
   },
   {
@@ -37289,7 +37331,9 @@
     "minStateId": 24360,
     "maxStateId": 24360,
     "states": [],
-    "drops": [],
+    "drops": [
+      325
+    ],
     "boundingBox": "empty"
   },
   {
@@ -37363,7 +37407,9 @@
     "minStateId": 24387,
     "maxStateId": 24387,
     "states": [],
-    "drops": [],
+    "drops": [
+      326
+    ],
     "boundingBox": "empty"
   },
   {
@@ -39507,7 +39553,8 @@
       "1057": true
     },
     "drops": [
-      1540
+      1540,
+      1268
     ],
     "boundingBox": "block"
   },
