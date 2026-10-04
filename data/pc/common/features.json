@@ -864,6 +864,14 @@
     ]
   },
   {
+    "name": "onePositionPerClientTick",
+    "description": "The server disconnects a client that sends two position-carrying move packets in one client tick (ServerGamePacketListenerImpl.receivedPositionThisTick, cleared by tick_end) -- so two teleports answered in one tick must share one position packet",
+    "versions": [
+      "26.3",
+      "latest"
+    ]
+  },
+  {
     "name": "playerActionHasChangeDestroyDirection",
     "description": "ServerboundPlayerActionPacket's action enum gained CHANGE_DESTROY_DIRECTION at id 1, shifting abort/finish digging to 2/3 and release-use-item to 6 (drop item is 5) — so mineflayer must not send the pre-26.3 status ids",
     "versions": [
