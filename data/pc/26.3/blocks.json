@@ -3206,9 +3206,7 @@
         "num_values": 2
       }
     ],
-    "drops": [
-      224
-    ],
+    "drops": [],
     "boundingBox": "block"
   },
   {
@@ -3253,7 +3251,7 @@
       }
     ],
     "drops": [
-      225
+      86
     ],
     "boundingBox": "block"
   },
@@ -3298,9 +3296,7 @@
         "num_values": 2
       }
     ],
-    "drops": [
-      226
-    ],
+    "drops": [],
     "boundingBox": "block"
   },
   {
@@ -4494,9 +4490,9 @@
     "displayName": "Straw Bed",
     "hardness": 0.2,
     "resistance": 0.2,
-    "stackSize": 1,
+    "stackSize": 16,
     "diggable": true,
-    "material": "default",
+    "material": "mineable/hoe",
     "transparent": true,
     "emitLight": 0,
     "filterLight": 0,
@@ -4530,9 +4526,7 @@
         ]
       }
     ],
-    "drops": [
-      1235
-    ],
+    "drops": [],
     "boundingBox": "block"
   },
   {
@@ -9925,7 +9919,7 @@
   {
     "id": 278,
     "name": "poplar_wall_sign",
-    "displayName": "Poplar Wall Sign",
+    "displayName": "Poplar Sign",
     "hardness": 1.0,
     "resistance": 1.0,
     "stackSize": 16,
@@ -9956,7 +9950,7 @@
       }
     ],
     "drops": [
-      1107
+      1111
     ],
     "boundingBox": "empty"
   },
@@ -11058,7 +11052,7 @@
   {
     "id": 302,
     "name": "poplar_wall_hanging_sign",
-    "displayName": "Poplar Wall Hanging Sign",
+    "displayName": "Poplar Hanging Sign",
     "hardness": 1.0,
     "resistance": 1.0,
     "stackSize": 16,
@@ -11089,7 +11083,7 @@
       }
     ],
     "drops": [
-      1120
+      1124
     ],
     "boundingBox": "block"
   },
@@ -16412,7 +16406,7 @@
     "diggable": true,
     "material": "default",
     "transparent": true,
-    "emitLight": 1,
+    "emitLight": 0,
     "filterLight": 0,
     "defaultState": 11227,
     "minStateId": 11227,
@@ -16442,7 +16436,7 @@
     "drops": [
       319
     ],
-    "boundingBox": "empty"
+    "boundingBox": "block"
   },
   {
     "id": 448,
@@ -17364,7 +17358,7 @@
     "states": [],
     "drops": [
       1377,
-      82
+      86
     ],
     "boundingBox": "block"
   },
@@ -24941,7 +24935,7 @@
     "name": "quartz_slab",
     "displayName": "Quartz Slab",
     "hardness": 2.0,
-    "resistance": 6.0,
+    "resistance": 0.8,
     "stackSize": 64,
     "diggable": true,
     "material": "mineable/pickaxe",
@@ -24987,7 +24981,7 @@
     "name": "red_sandstone_slab",
     "displayName": "Red Sandstone Slab",
     "hardness": 2.0,
-    "resistance": 6.0,
+    "resistance": 0.8,
     "stackSize": 64,
     "diggable": true,
     "material": "mineable/pickaxe",
@@ -25033,7 +25027,7 @@
     "name": "cut_red_sandstone_slab",
     "displayName": "Cut Red Sandstone Slab",
     "hardness": 2.0,
-    "resistance": 6.0,
+    "resistance": 0.8,
     "stackSize": 64,
     "diggable": true,
     "material": "mineable/pickaxe",
